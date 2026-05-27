@@ -1,0 +1,17 @@
+python-dotenv
+sentence-transformers
+chromadb
+gradio
+torch
+transformers
+accelerate
+einops
+set_key
+os
+threading
+uuid
+google-genai
+imaplib
+email
+re
+json
